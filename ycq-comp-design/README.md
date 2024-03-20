@@ -24,4 +24,4 @@
  - 可以在根目录下创建post.config.js文件，可以对postCSS进行配置，package.json中的browserslist字段，该值将用于autoprefixer确定目标浏览器的版本，保证编译后代码的兼容
 
  ### 其他
- 其他的开发指南所需文档，均可根据项目需要参考vant官方
+ 其他的开发指南所需文档，均可根据项目需要参考vant官方，传送门：[vant官方文档](http://mui.ucmed.cn/#/zh-CN/intro)
