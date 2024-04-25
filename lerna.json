@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "packages": ["ycq-comp-design/*", "ycq-vuepress-design/*"],
+  "version": "independent",
+  "useWorkspaces": false
+}
